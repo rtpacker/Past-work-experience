@@ -98,7 +98,7 @@ Publication-ready visualizations built in R, including clinical figures and plot
 
 ## Context
 
-Most of this work was done in support of NIH-funded, multi-institutional studies involving large-scale EHR data. The code here reflects real analytical challenges — not toy examples — adapted for public sharing.
+Most of this work was done in support of NIH-funded, multi-institutional studies involving large-scale EHR data. The code here reflects real analytical challenges adapted for public sharing.
 
 ---
 
