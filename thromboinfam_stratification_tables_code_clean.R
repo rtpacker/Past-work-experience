@@ -12,9 +12,7 @@
 # Outcomes:    log_ddimer, log_crp, log_ifn, log_tnf, log_il6, eselectin, fix
 # Models:      Unadjusted, Age-adjusted
 #
-# NOTE: Update data.path and output.path before running.
-#       Re-run the model-fitting loop and export block for each stratum
-#       by swapping the active design object and subset (see comments below).
+# 
 # =============================================================================
 
 ###############
