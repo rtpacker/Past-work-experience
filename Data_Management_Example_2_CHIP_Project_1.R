@@ -16,7 +16,7 @@
 #             standardized biomarkers, age categories, factor coding)
 #   Step 8 — Build case-cohort survival structure
 #
-# NOTE: Update data.path and ref.path to match your local directories.
+# 
 # =============================================================================
 
 
