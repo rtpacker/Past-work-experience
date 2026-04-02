@@ -21,9 +21,7 @@
 #   12. Inpatient medications
 #   13. ICU stays
 #
-# NOTE: Update data.path and output.path to match your local directory before
-#       running. All inputs are read from data.path/Clean Data/Level 1/ and
-#       all outputs are saved to data.path/Clean Data/Level 2/.
+#
 # =============================================================================
 
 
