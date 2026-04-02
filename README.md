@@ -13,7 +13,6 @@ I'm currently deepening my expertise in cloud and generative AI, pursuing the **
 - 🏥 Former Biostatistician at the **University of Vermont Larner College of Medicine**
 - 📄 Published co-author in the *Journal of Thrombosis & Haemostasis*
 - ☁️ AWS Certified Solutions Architect Associate *(in progress)*
-- 📍 Based in Vermont
 
 ---
 
