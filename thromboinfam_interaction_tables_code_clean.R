@@ -10,7 +10,7 @@
 # Outcomes:    log_ddimer, log_crp, log_ifn, log_tnf, log_il6, eselectin, fix
 # Interactions tested: x Race, x Gender, x Race*Gender
 #
-# NOTE: Update data.path before running.
+
 # =============================================================================
 
 
