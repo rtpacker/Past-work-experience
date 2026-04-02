@@ -73,6 +73,39 @@ Genomic risk modeling using a national cohort of 30,000+ participants to stratif
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ryan--packer-blue?logo=linkedin)](https://linkedin.com/in/ryan-packer-39820)
+
+
+# Past Work Experience – Portfolio Samples
+
+This repository contains a selection of cleaned, de-identified code samples from my work as a Biostatistician. It is **not exhaustive** — these are representative examples chosen to illustrate my approach across three core areas: data management, statistical analysis, and figure creation.
+
+All code has been scrubbed of PHI, file paths, and institution-specific identifiers. No patient data is included.
+
+---
+
+## What's In Here
+
+### 🗂️ Data Management
+Examples of how I structure and clean large, messy clinical datasets — including cohort identification logic, variable standardization across sites, and QC workflows built for reproducibility.
+
+### 📊 Statistical Analysis
+Code samples covering the modeling and analysis side of my work — including regression, survival analysis, and feature engineering for clinical outcomes research.
+
+### 📈 Figure Creation
+Publication-ready visualizations built in R, including clinical figures and plots designed for research manuscripts.
+
+---
+
+## Context
+
+Most of this work was done in support of NIH-funded, multi-institutional studies involving large-scale EHR data. The code here reflects real analytical challenges — not toy examples — adapted for public sharing.
+
+---
+
+> ⚠️ *All code in this repository uses synthetic or de-identified data. No PHI or patient-level information is present.*
+
+
+
 [![Email](https://img.shields.io/badge/Email-rtpackr@yahoo.com-red?logo=yahoo)](mailto:rtpackr@yahoo.com)
 
 > ⚠️ *All code in this portfolio uses synthetic or publicly available data. No patient data or PHI is present in any repository.*
