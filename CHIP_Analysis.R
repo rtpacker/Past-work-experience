@@ -9,7 +9,7 @@
 # Exposure:  CHIPCOMB2p, CHIPCOMB5p, CHIPCOMB10p
 # Design:    Case-cohort; subcohort defined by random == "Y"
 #
-# NOTE: Update data.path and function.path before running.
+
 # =============================================================================
 
 
